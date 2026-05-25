@@ -1,0 +1,1 @@
+A full-stack Machine Learning application built using FastAPI as backend to serve trained machine learning model through clean and efficient endpoints. A responsive Streamlit frontend hooks directly into the API, creating an interactive, real-world workflow that shows exactly how data, logic, and presentation layers interact.
